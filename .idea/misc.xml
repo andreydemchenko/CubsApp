@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DemA/Android/CubsApp/app/src/main/res/drawable/round_outline_rect.xml" value="0.1" />
+        <entry key="..\:/DemA/Android/CubsApp/app/src/main/res/drawable/signout_account_drawable.xml" value="0.1" />
+        <entry key="..\:/DemA/Android/CubsApp/app/src/main/res/drawable/sl_favourite_24dp.xml" value="0.1" />
+        <entry key="..\:/DemA/Android/CubsApp/app/src/main/res/font/nunito_sans.xml" value="0.23958333333333334" />
+        <entry key="..\:/DemA/Android/CubsApp/app/src/main/res/layout/activity_launch.xml" value="0.22" />
+        <entry key="..\:/DemA/Android/CubsApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/DemA/Android/CubsApp/app/src/main/res/layout/cart_list_item.xml" value="0.33" />
+        <entry key="..\:/DemA/Android/CubsApp/app/src/main/res/layout/event_list_item.xml" value="0.2392638036809816" />
+        <entry key="..\:/DemA/Android/CubsApp/app/src/main/res/layout/fragment_product_details.xml" value="0.33" />
+        <entry key="..\:/DemA/Android/CubsApp/app/src/main/res/layout/layout_list_item.xml" value="0.33" />
+        <entry key="..\:/DemA/Android/CubsApp/app/src/main/res/layout/layout_price_card.xml" value="0.25" />
+        <entry key="..\:/DemA/Android/CubsApp/app/src/main/res/layout/layout_shipping_card.xml" value="0.25" />
+        <entry key="..\:/DemA/Android/CubsApp/app/src/main/res/layout/products_list_item.xml" value="0.46062992125984253" />
+        <entry key="..\:/DemA/Android/CubsApp/app/src/main/res/menu/menu_main.xml" value="0.1" />
+        <entry key="..\:/DemA/Android/CubsApp/app/src/main/res/menu/menu_with_add_only.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
